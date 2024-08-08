@@ -1,1 +1,61 @@
-/* Write your CSS here! */
+body {
+    margin: 8 px;
+    display: block;
+}
+p, h4 {
+    font-family: Calibri;
+    font-style: italic;
+    font-weight: lighter;
+}
+
+title{
+    font-family: Times New Roman;
+}
+
+header, h2{
+    font-family: Times New Roman;
+    text-align: center;
+    
+}
+
+section{
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.Background {
+    background-color: rgb(222, 240, 241)
+}
+
+.sub-heading {
+    background-color: rgb(184, 227, 229);
+
+}
+
+#intro, #beauty, #food, #activities {
+    padding: 40 px;
+    margin: 50px;
+}
+
+#mainHeading {
+    color: red;
+    font-size: small;
+
+}
+
+.funParagraph {
+    color: green;
+
+}
+
+#testP{
+    font-weight: bold;
+
+}
+
+footer{
+    text-align: center;
+}
